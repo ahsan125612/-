@@ -1,7 +1,38 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261578774537020%22%3A%22bLbaOMR8%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-08-09T14:44:33.059Z",
+		"lastAccessed": "2025-08-09T14:44:33.059Z"
+	},
+	{
+		"key": "sb",
+		"value": "yFyXaNOMUJxftIs0rRgzSR0n",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-09T14:44:33.059Z",
+		"lastAccessed": "2025-08-09T14:44:33.059Z"
+	},
+	{
+		"key": "datr",
+		"value": "UF6XaG3F18jaEBrm9Io7DZ2l",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-09T14:44:33.059Z",
+		"lastAccessed": "2025-08-09T14:44:33.059Z"
+	},
+	{
+		"key": "fr",
+		"value": "0GKu3jeB9Rufv4aeQ..Bol15Q..AAA.0.0.Bol15Q.AWdBgPoK9_xJVHktlhmYx2SMTaQ",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-09T14:44:33.059Z",
+		"lastAccessed": "2025-08-09T14:44:33.059Z"
+	}
+]
